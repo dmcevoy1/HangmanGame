@@ -1,0 +1,11 @@
+c:\users\z13367\documents\visual studio 2015\Projects\Hangman\Hangman\bin\Debug\Hangman.exe.config
+C:\Users\z13367\documents\visual studio 2015\Projects\Hangman\Hangman\bin\Debug\Hangman.exe
+C:\Users\z13367\documents\visual studio 2015\Projects\Hangman\Hangman\bin\Debug\Hangman.pdb
+C:\Users\z13367\documents\visual studio 2015\Projects\Hangman\Hangman\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\z13367\documents\visual studio 2015\Projects\Hangman\Hangman\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\z13367\documents\visual studio 2015\Projects\Hangman\Hangman\obj\Debug\Hangman.csprojResolveAssemblyReference.cache
+C:\Users\z13367\documents\visual studio 2015\Projects\Hangman\Hangman\obj\Debug\Hangman.frmHangman.resources
+C:\Users\z13367\documents\visual studio 2015\Projects\Hangman\Hangman\obj\Debug\Hangman.Properties.Resources.resources
+C:\Users\z13367\documents\visual studio 2015\Projects\Hangman\Hangman\obj\Debug\Hangman.csproj.GenerateResource.Cache
+C:\Users\z13367\documents\visual studio 2015\Projects\Hangman\Hangman\obj\Debug\Hangman.exe
+C:\Users\z13367\documents\visual studio 2015\Projects\Hangman\Hangman\obj\Debug\Hangman.pdb
